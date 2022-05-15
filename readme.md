@@ -10,5 +10,6 @@
  - [Browse](https://github.com/MadMakz/WE-TwitchClock/issues)
  - [Create](https://github.com/MadMakz/WE-TwitchClock/issues/new/choose)
 ### Screenshots
- - ![](https://raw.githubusercontent.com/MadMakz/WE-TwitchClock/main/assets/screenshots/preview_big.jpg)
- - ![](https://raw.githubusercontent.com/MadMakz/WE-TwitchClock/main/assets/screenshots/options.jpg)
+![](https://raw.githubusercontent.com/MadMakz/WE-TwitchClock/main/assets/screenshots/preview_big.jpg)
+
+![](https://raw.githubusercontent.com/MadMakz/WE-TwitchClock/main/assets/screenshots/options.jpg)
