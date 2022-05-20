@@ -8,7 +8,7 @@
  - Requires: [Wallpaper Engine](https://www.wallpaperengine.io)
    - Subscribe: [Twitch Clock](https://steamcommunity.com/sharedfiles/filedetails/?id=1169123011) (Free)
 ### Changelog
- - [Changelog](https://dev.makz.net/changelog/we-twitchclock.txt)
+ - [Changelog](https://raw.githubusercontent.com/MadMakz/WE-TwitchClock/main/changelog.txt)
 ### Issue
  - [Browse](https://github.com/MadMakz/WE-TwitchClock/issues)
  - [Create](https://github.com/MadMakz/WE-TwitchClock/issues/new/choose)
