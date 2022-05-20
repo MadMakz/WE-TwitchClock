@@ -1,0 +1,11 @@
+Info: Report bugs or ask for features at https://makz.net/help/wetc
+
+1.3:
+  Added:
+    Selectable start of week for calendar
+    Support for 12h time format
+    Added hide options
+  Changed:
+    Removed comma in calendar header
+  Experimental:
+    Background upscaled to support upto 8k display resolutions
