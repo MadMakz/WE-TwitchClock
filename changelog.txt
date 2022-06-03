@@ -1,11 +1,13 @@
-Info: Report bugs or ask for features at https://makz.net/help/wetc
+Info: Report bugs or ask for features at https://makz.net/help/twitchclock
 
-1.3:
+1.3 (BETA):
   Added:
-    Selectable start of week for calendar
-    Support for 12h time format
-    Added hide options
+    Option to set start of week for calendar (Sunday / Monday)
+    Option to show 12h time format
+    Option to "hide" seconds, clock, calendar
   Changed:
     Removed comma in calendar header
+  Fixed:
+    Day not changeing after midnight
   Experimental:
     Background upscaled to support upto 8k display resolutions
